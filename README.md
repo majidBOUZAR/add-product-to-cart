@@ -1,4 +1,4 @@
-# project django add items to cart 
+# project django ecommerce add items to cart 
 technologie used : 
 - django
 - html 
